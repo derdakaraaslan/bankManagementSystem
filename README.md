@@ -1,2 +1,2 @@
 # bankManagementSystem
-My third term project, with JAVA
+My object oriented programming project, with JAVA
